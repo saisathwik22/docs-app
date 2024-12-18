@@ -1,1 +1,1 @@
-## Google Docs Notes Guide:
+## Google Docs Clone - Notes Guide:
